@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>357339113767-7i8lvbc252vc1u8nffn5lt1546f3ntkf.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.357339113767-7i8lvbc252vc1u8nffn5lt1546f3ntkf</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBo-ozcm88G7VA9wFSXbTQzg4rKVeMNvcg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>357339113767</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.uni.obuda.MibandDataCollector</string>
+	<key>PROJECT_ID</key>
+	<string>teszfirebase</string>
+	<key>STORAGE_BUCKET</key>
+	<string>teszfirebase.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:357339113767:ios:3d4f1b60586347326a2102</string>
+	<key>DATABASE_URL</key>
+	<string>https://teszfirebase-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

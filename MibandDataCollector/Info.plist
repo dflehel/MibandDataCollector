@@ -2,6 +2,10 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+    <key>BGTaskSchedulerPermittedIdentifiers</key>
+	<array>
+		<string>proba.hrrefresh</string>
+	</array>
 	<key>UIApplicationSceneManifest</key>
 	<dict>
 		<key>UIApplicationSupportsMultipleScenes</key>
@@ -21,5 +25,24 @@
 			</array>
 		</dict>
 	</dict>
+    <key>NSBluetoothAlwaysUsageDescription</key>
+	<string>Our app uses bluetooth to find, connect and transfer data between different devices</string>
+	<key>NSBluetoothPeripheralUsageDescription</key>
+	<string>Our app uses bluetooth to find, connect and transfer data between different devices</string>
+	<key>NSSupportsSuddenTermination</key>
+	<false/>
+	<key>UIApplicationExitsOnSuspend</key>
+	<false/>
+	<key>UIBackgroundModes</key>
+	<array>
+		<string>audio</string>
+		<string>bluetooth-central</string>
+		<string>bluetooth-peripheral</string>
+		<string>external-accessory</string>
+		<string>fetch</string>
+		<string>location</string>
+		<string>processing</string>
+		<string>remote-notification</string>
+	</array>
 </dict>
 </plist>
